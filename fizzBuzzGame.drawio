@@ -1,1 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T19:35:34.098Z" agent="5.0 (Macintosh)" version="20.0.3" etag="51ws8GwEZM7_PAeZx1US" type="github"><diagram id="u1L0F7Qn24enEB-UApsE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-25T20:24:57.167Z" agent="5.0 (Macintosh)" etag="wSaTvCihumI8ZwC-kUNk" version="20.0.3" type="github">
+  <diagram id="u1L0F7Qn24enEB-UApsE" name="Page-1">
+    <mxGraphModel dx="1796" dy="551" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="160" as="sourcePoint" />
+            <mxPoint x="928" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="61" as="sourcePoint" />
+            <mxPoint x="400" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-5" value="&lt;div&gt;is the number &lt;br&gt;&lt;/div&gt;&lt;div&gt;strictly divisible&lt;/div&gt;&lt;div&gt;by 5?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-7" value="&lt;div&gt;Print numbers &lt;br&gt;&lt;/div&gt;&lt;div&gt;1 to 100&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="180" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="497" y="284.5" as="sourcePoint" />
+            <mxPoint x="577" y="284.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="284.5" as="sourcePoint" />
+            <mxPoint x="300" y="284.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="284" as="sourcePoint" />
+            <mxPoint x="220" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="577" y="284" as="sourcePoint" />
+            <mxPoint x="577" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-14" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232" y="256" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="512" y="256" width="40" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-16" value="Print the number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="344" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-17" value="&lt;div&gt;Print the Buzz instead&lt;/div&gt;&lt;div&gt;of the number&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="472" y="344" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="928" y="160" as="sourcePoint" />
+            <mxPoint x="928" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="928" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-20" value="&lt;div&gt;is the number &lt;br&gt;&lt;/div&gt;&lt;div&gt;strictly divisible&lt;/div&gt;&lt;div&gt;by 3 and 5?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="828" y="241" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-21" value="No" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748" y="286.5" as="sourcePoint" />
+            <mxPoint x="828" y="286.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1109" y="286" as="sourcePoint" />
+            <mxPoint x="1109" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-23" value="Yes" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1029" y="285.5" as="sourcePoint" />
+            <mxPoint x="1109" y="285.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748" y="286" as="sourcePoint" />
+            <mxPoint x="748" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-25" value="&lt;div&gt;Print the Buzz instead&lt;/div&gt;&lt;div&gt;of the number&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="344" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-26" value="Print the number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="688" y="345" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-128" y="160" as="sourcePoint" />
+            <mxPoint x="370" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-128" y="160" as="sourcePoint" />
+            <mxPoint x="-128" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-128" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-30" value="&lt;div&gt;is the number &lt;br&gt;&lt;/div&gt;&lt;div&gt;strictly divisible&lt;/div&gt;&lt;div&gt;by 3 ?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="241" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-31" value="No" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-309" y="286.5" as="sourcePoint" />
+            <mxPoint x="-229" y="286.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="52" y="286" as="sourcePoint" />
+            <mxPoint x="52" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-33" value="Yes" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-28" y="285.5" as="sourcePoint" />
+            <mxPoint x="52" y="285.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-309" y="286" as="sourcePoint" />
+            <mxPoint x="-309" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-35" value="&lt;div&gt;Print the Buzz instead&lt;/div&gt;&lt;div&gt;of the number&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="344" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-36" value="Print the number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-373" y="346" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
