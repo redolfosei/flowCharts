@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T20:24:57.167Z" agent="5.0 (Macintosh)" etag="wSaTvCihumI8ZwC-kUNk" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T20:26:04.636Z" agent="5.0 (Macintosh)" etag="K7ILlYW1sC3jS6HGWyJK" version="20.0.3" type="github">
   <diagram id="u1L0F7Qn24enEB-UApsE" name="Page-1">
     <mxGraphModel dx="1796" dy="551" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,13 +31,13 @@
             <mxPoint x="400" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V5qjPpUxMIIY8k5n9pWK-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-10" value="Yes" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="497" y="284.5" as="sourcePoint" />
             <mxPoint x="577" y="284.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V5qjPpUxMIIY8k5n9pWK-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="V5qjPpUxMIIY8k5n9pWK-11" value="No" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="284.5" as="sourcePoint" />
             <mxPoint x="300" y="284.5" as="targetPoint" />
@@ -54,12 +54,6 @@
             <mxPoint x="577" y="284" as="sourcePoint" />
             <mxPoint x="577" y="344" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="V5qjPpUxMIIY8k5n9pWK-14" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="232" y="256" width="32" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="V5qjPpUxMIIY8k5n9pWK-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="512" y="256" width="40" height="32" as="geometry" />
         </mxCell>
         <mxCell id="V5qjPpUxMIIY8k5n9pWK-16" value="Print the number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="344" width="120" height="40" as="geometry" />
