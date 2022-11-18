@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T12:23:13.642Z" agent="5.0 (Macintosh)" version="20.5.3" etag="LePCSnw5AueonukhMqW2" type="github"><diagram id="DublEUcQN5aIUC7E17iw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-18T13:15:44.361Z" agent="5.0 (Macintosh)" etag="uvmEosHQKRCQ5cQWa0DC" version="20.5.3" type="github">
+  <diagram id="DublEUcQN5aIUC7E17iw" name="Page-1">
+    <mxGraphModel dx="912" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-1" value="&lt;b&gt;Calculate the Sum of a Square in a given input&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-3" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yZ18J7Mk1W3H-oPo8404-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-6" value="input a num;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="174" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
