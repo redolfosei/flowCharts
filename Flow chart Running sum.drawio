@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T22:25:18.818Z" agent="5.0 (Macintosh)" etag="MY4TARisWwtgo96cw5Gv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T22:26:48.161Z" agent="5.0 (Macintosh)" etag="NllQ1RMOfzvLcTyZ4zYY" version="20.5.3" type="github">
   <diagram id="fHqRQTKvjRQOcd6iJBSY" name="Page-1">
     <mxGraphModel dx="912" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,24 @@
         </mxCell>
         <mxCell id="T5vbhO2mCXwJh2hEvMsF-10" value="Negative number encountered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="284" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-11" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-12" value="sum up all the inputs " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="305" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="671" y="360" as="sourcePoint" />
+            <mxPoint x="670.4971751412429" y="400.2259887005649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-15" value="print sum of the nums" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="621.5" y="415" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
