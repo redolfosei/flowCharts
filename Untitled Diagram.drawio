@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T20:40:24.332Z" agent="5.0 (Macintosh)" etag="Q-qnMOhs-ayJToMfoYwR" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T20:44:59.691Z" agent="5.0 (Macintosh)" etag="F_WukS3HiKgWTWOW70Yo" version="20.5.3" type="github">
   <diagram id="EuVzR4TbbOB-WLJqtYXq" name="Page-1">
     <mxGraphModel dx="912" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,30 @@
         </mxCell>
         <mxCell id="lYZHsFxTf35glTFn1y27-5" value="Accept 3 inputs;&lt;br&gt;int num1, num2, num3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="277" y="174" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lYZHsFxTf35glTFn1y27-6" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="271" y="250" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lYZHsFxTf35glTFn1y27-7" value="compare the three nums; num1,num2,num3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="277" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lYZHsFxTf35glTFn1y27-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="220" as="sourcePoint" />
+            <mxPoint x="358.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYZHsFxTf35glTFn1y27-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="329" as="sourcePoint" />
+            <mxPoint x="358.5" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYZHsFxTf35glTFn1y27-11" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="271" y="360" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lYZHsFxTf35glTFn1y27-12" value="sort the nums; num1, num2. num3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="286" y="389" width="150" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
