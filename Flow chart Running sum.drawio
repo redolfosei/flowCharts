@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T22:16:11.374Z" agent="5.0 (Macintosh)" etag="Lens2eaTB9XPaXM0PHeN" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T22:25:18.818Z" agent="5.0 (Macintosh)" etag="MY4TARisWwtgo96cw5Gv" version="20.5.3" type="github">
   <diagram id="fHqRQTKvjRQOcd6iJBSY" name="Page-1">
     <mxGraphModel dx="912" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,42 @@
         </mxCell>
         <mxCell id="T5vbhO2mCXwJh2hEvMsF-2" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="120" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="272" y="160" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-5" value="Loop through until a negative number is encountered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="301" y="189" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361" y="240" as="sourcePoint" />
+            <mxPoint x="361" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-7" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-8" value="As the program loops through accept multiple input of nums;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="301" y="309" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="320.5" as="sourcePoint" />
+            <mxPoint x="545" y="319.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="320.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T5vbhO2mCXwJh2hEvMsF-10" value="Negative number encountered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="284" width="121" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
