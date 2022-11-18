@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T13:19:00.077Z" agent="5.0 (Macintosh)" etag="EMwlk-2q2V8oJQKkpQqy" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T13:20:11.741Z" agent="5.0 (Macintosh)" etag="up_4ZE8NbqHbR6_ewktD" version="20.5.3" type="github">
   <diagram id="DublEUcQN5aIUC7E17iw" name="Page-1">
     <mxGraphModel dx="912" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,13 +22,13 @@
             <mxPoint x="360" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZ18J7Mk1W3H-oPo8404-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="285" y="160" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZ18J7Mk1W3H-oPo8404-6" value="input a num;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="174" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yZ18J7Mk1W3H-oPo8404-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-7" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="286" y="250" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yZ18J7Mk1W3H-oPo8404-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yZ18J7Mk1W3H-oPo8404-5">
