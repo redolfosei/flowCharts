@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T14:43:37.533Z" agent="5.0 (Macintosh)" etag="IyPkYBfKlwMIFJmCrRYb" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T14:44:42.233Z" agent="5.0 (Macintosh)" etag="iyi4U6IkaZRpNbF0Pv3u" version="20.5.3" type="github">
   <diagram id="DublEUcQN5aIUC7E17iw" name="Page-1">
     <mxGraphModel dx="912" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,6 +102,12 @@
             <mxPoint x="359" y="550" as="sourcePoint" />
             <mxPoint x="358.4971751412429" y="590.2259887005649" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="299" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ18J7Mk1W3H-oPo8404-33" value="print sum of the squared nums" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310.5" y="605" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
